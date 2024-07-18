@@ -7,25 +7,10 @@ The evaluation pipeline:
 
 ![plot](assets/pipeline.jpg)
 
-Principle components for **simulated** data:
-1. PCA:
-![plot](assets/PCA%20on%20Simulated%20Data.jpg)
-2. Sparse PCA:
-![plot](assets/SparsePCA%20on%20Simulated%20Data.jpg)
-3. Incremental PCA:
-![plot](assets/IncrementalPCA%20on%20Simulated%20Data.jpg)
-4. Kernel PCA:
-![plot](assets/KernelPCA%20on%20Simulated%20Data.jpg)
+Principle components for **simulated** and **wine** dataset:
 
-Principle components for **wine** data:
-1. PCA:
-![plot](assets/PCA%20on%20Wine%20Data.jpg)
-2. Sparse PCA:
-![plot](assets/SparsePCA%20on%20Wine%20Data.jpg)
-3. Incremental PCA:
-![plot](assets/IncrementalPCA%20on%20Wine%20Data.jpg)
-4. Kernel PCA:
-![plot](assets/KernelPCA%20on%20Wine%20Data.jpg)
+![plot](assets/plots.jpg)
+
 
 
 Classification Results:
